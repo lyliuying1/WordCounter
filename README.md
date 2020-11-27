@@ -28,7 +28,7 @@ wc.exe -bl english2.txt 统计空行数
 wc.exe -cl english2.txt 统计注释行数
 
 
-# 第一次提交的一个文件为：
+# 第一次提交的项目为：
 
 1.WC-V0.1.cpp    此项目为空项目
 
