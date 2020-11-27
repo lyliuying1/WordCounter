@@ -17,15 +17,15 @@ wc.exe -s english1.txt  统计句子数
 
 命令模式： wc.exe [参数] [文件名]
 
-wc.exe -z english1.txt  统计字符数
+wc.exe -z english2.txt  统计字符数
 
-wc.exe -w english1.txt 统计单词数
+wc.exe -w english2.txt 统计单词数
 
-wc.exe -tl english1.txt 统计总行数
+wc.exe -tl english2.txt 统计总行数
 
-wc.exe -bl english1.txt 统计空行数
+wc.exe -bl english2.txt 统计空行数
 
-wc.exe -cl english1.txt 统计注释行数
+wc.exe -cl english2.txt 统计注释行数
 
 
 # 第一次提交的一个文件为：
